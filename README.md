@@ -5,6 +5,8 @@ This project explores how brain activity can be used to understand human emotion
 
 The goal is to build an efficient and intelligent emotion-recognition system that can support real-world Brain–Computer Interface (BCI) applications such as mental-health monitoring, adaptive interfaces, neuro-feedback systems, and more.
 
+Dataset file:archive (1).zip
+
 🔍 Project Overview
 
 Traditional deep learning models often treat EEG channels independently, missing the meaningful relationships between electrodes.
