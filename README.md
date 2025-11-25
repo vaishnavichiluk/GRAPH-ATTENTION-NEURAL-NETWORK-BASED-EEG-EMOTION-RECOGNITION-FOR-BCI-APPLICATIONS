@@ -32,8 +32,8 @@ Includes data preprocessing, graph construction, feature extraction, and model t
 
 Visualizes EEG signals and performance metrics
 
-🛠️ Technologies Used
-Category	Tools
+🛠️ Technologies Used:
+
 Programming	Python (Jupyter Notebook)
 Deep Learning	PyTorch
 EEG Processing	MNE
