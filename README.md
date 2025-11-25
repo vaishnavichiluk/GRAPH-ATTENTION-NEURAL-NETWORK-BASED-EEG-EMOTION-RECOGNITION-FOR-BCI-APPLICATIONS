@@ -34,11 +34,11 @@ Visualizes EEG signals and performance metrics
 
 🛠️ Technologies Used:
 
-Programming	Python (Jupyter Notebook)
-Deep Learning	PyTorch
-EEG Processing	MNE
-Data Handling	NumPy, Pandas
-Visualization	Matplotlib
+Programming	Python (Jupyter Notebook),
+Deep Learning	,PyTorch,
+EEG Processing	,MNE,
+Data Handling	NumPy, Pandas,
+Visualization	,Matplotlib
 
 🚀 How It Works
 
